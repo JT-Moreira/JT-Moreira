@@ -1,5 +1,5 @@
 <p align="center">
-  <img src="./assets/banner.png" alt="Banner João Gabriel Moreira" width="100%" />
+  <img src="./assets/Banner João Gabriel Moreira.png" alt="Banner João Gabriel Moreira" width="100%" />
 </p>
 
 <h1 align="center">João Gabriel Moreira</h1>
