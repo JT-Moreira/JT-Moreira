@@ -46,7 +46,6 @@ Atualmente desenvolvo o **NERO**, meu principal projeto pessoal: um assistente d
 ![DNS](https://img.shields.io/badge/DNS-151821?style=flat-square)
 ![DHCP](https://img.shields.io/badge/DHCP-243047?style=flat-square)
 
----
 
 ## NERO
 
@@ -100,7 +99,6 @@ O projeto combina diferentes componentes para criar uma experiência mais natura
 </tr>
 </table>
 
----
 
 ## Experiência prática
 
@@ -119,7 +117,6 @@ Além dos projetos de desenvolvimento, também possuo experiência prática com 
 - Configuração e resolução de problemas no Windows
 - Conhecimentos de redes TCP/IP, DNS e DHCP
 
----
 
 ## Formação
 
@@ -133,7 +130,6 @@ Em andamento • Início em 2026
 **ETEC**  
 2024 – 2025
 
----
 
 ## Cursos complementares
 
@@ -145,7 +141,6 @@ Em andamento • Início em 2026
 | Desenvolvimento de Aplicativos e Jogos | 40h |
 | Super Tecnologias | 40h |
 
----
 
 ## Contato
 
