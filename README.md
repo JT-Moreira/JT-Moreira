@@ -1,35 +1,33 @@
 <p align="center">
-  <img src="./assets/Banner João Gabriel Moreira.png" alt="Banner João Gabriel Moreira" width="100%" />
-</p>
-
-<h1 align="center">João Gabriel Moreira</h1>
-
-<p align="center">
-  Desenvolvimento de Software • Ciência da Computação • Tecnologia
+  <img src="./assets/banner.png" alt="Banner João Gabriel Moreira" width="100%" />
 </p>
 
 <p align="center">
-  <a href="https://www.linkedin.com/in/joaogabrielmoreira-jt/">
-    <img src="https://img.shields.io/badge/LinkedIn-0A66C2?style=for-the-badge&logo=linkedin&logoColor=white" alt="LinkedIn" />
-  </a>
   <a href="mailto:joaogabrielvfc2@gmail.com">
-    <img src="https://img.shields.io/badge/Email-BB3E3E?style=for-the-badge&logo=gmail&logoColor=white" alt="Email" />
+    <img src="https://img.shields.io/badge/EMAIL-151821?style=flat-square&logo=gmail&logoColor=C65353" alt="Email" />
+  </a>
+  <a href="https://www.linkedin.com/in/joaogabrielmoreira-jt/">
+    <img src="https://img.shields.io/badge/LINKEDIN-7A3038?style=flat-square&logo=linkedin&logoColor=white" alt="LinkedIn" />
   </a>
   <a href="https://github.com/JT-Moreira">
-    <img src="https://img.shields.io/badge/GitHub-111111?style=for-the-badge&logo=github&logoColor=white" alt="GitHub" />
+    <img src="https://img.shields.io/badge/GITHUB-151821?style=flat-square&logo=github&logoColor=white" alt="GitHub" />
   </a>
 </p>
-
----
 
 ## Sobre mim
 
-Sou técnico em Informática pela ETEC e atualmente curso Bacharelado em Ciência da Computação.
+Sou **Técnico em Informática pela ETEC** e atualmente curso **Bacharelado em Ciência da Computação**.
 
-Tenho interesse em desenvolvimento de software, inteligência artificial, automação, suporte e infraestrutura. Também atuo com formatação, configuração, manutenção e diagnóstico de computadores e notebooks.
+Minha experiência também passa pelo lado prático da tecnologia, com manutenção, formatação, configuração e diagnóstico de computadores e notebooks, além de suporte a usuários e resolução de problemas de hardware e software.
 
-**Localização:** São Paulo, Brasil  
-**Idioma:** Inglês — Intermediário
+Atualmente desenvolvo o **NERO**, um assistente de inteligência artificial para desktop criado como projeto pessoal, onde exploro IA local, reconhecimento e síntese de voz, automação e integração entre diferentes componentes.
+
+- Bacharelado em Ciência da Computação — em andamento
+- Técnico em Informática pela ETEC
+- Experiência prática com suporte e manutenção de computadores
+- Projeto pessoal NERO
+- São Paulo, Brasil
+- Inglês — Intermediário
 
 ---
 
@@ -37,85 +35,100 @@ Tenho interesse em desenvolvimento de software, inteligência artificial, automa
 
 ### Linguagens
 
-![Java](https://img.shields.io/badge/Java-ED8B00?style=flat&logo=openjdk&logoColor=white)
-![C](https://img.shields.io/badge/C-00599C?style=flat&logo=c&logoColor=white)
-![JavaScript](https://img.shields.io/badge/JavaScript-F7DF1E?style=flat&logo=javascript&logoColor=black)
-![SQL](https://img.shields.io/badge/SQL-336791?style=flat&logo=postgresql&logoColor=white)
-![HTML5](https://img.shields.io/badge/HTML5-E34F26?style=flat&logo=html5&logoColor=white)
-![CSS3](https://img.shields.io/badge/CSS3-1572B6?style=flat&logo=css3&logoColor=white)
+![Java](https://img.shields.io/badge/Java-B94B46?style=flat-square&logo=openjdk&logoColor=white)
+![C](https://img.shields.io/badge/C-243047?style=flat-square&logo=c&logoColor=white)
+![JavaScript](https://img.shields.io/badge/JavaScript-191C26?style=flat-square&logo=javascript&logoColor=F7DF1E)
+![SQL](https://img.shields.io/badge/SQL-7A3038?style=flat-square&logo=postgresql&logoColor=white)
+![HTML5](https://img.shields.io/badge/HTML5-B94B46?style=flat-square&logo=html5&logoColor=white)
+![CSS3](https://img.shields.io/badge/CSS3-243047?style=flat-square&logo=css3&logoColor=white)
 
-### Ferramentas
+### Desenvolvimento e ferramentas
 
-![Git](https://img.shields.io/badge/Git-F05032?style=flat&logo=git&logoColor=white)
-![GitHub](https://img.shields.io/badge/GitHub-181717?style=flat&logo=github&logoColor=white)
-![Docker](https://img.shields.io/badge/Docker-2496ED?style=flat&logo=docker&logoColor=white)
-![Ollama](https://img.shields.io/badge/Ollama-111111?style=flat&logo=ollama&logoColor=white)
+![Git](https://img.shields.io/badge/Git-B94B46?style=flat-square&logo=git&logoColor=white)
+![GitHub](https://img.shields.io/badge/GitHub-151821?style=flat-square&logo=github&logoColor=white)
+![Docker](https://img.shields.io/badge/Docker-243047?style=flat-square&logo=docker&logoColor=white)
+![Ollama](https://img.shields.io/badge/Ollama-151821?style=flat-square&logo=ollama&logoColor=white)
 
 ### Suporte e infraestrutura
 
-![Windows](https://img.shields.io/badge/Windows-0078D6?style=flat&logo=windows&logoColor=white)
-![TCP/IP](https://img.shields.io/badge/TCP%2FIP-0B5D8B?style=flat)
-![DNS](https://img.shields.io/badge/DNS-0D698B?style=flat)
-![DHCP](https://img.shields.io/badge/DHCP-4B5563?style=flat)
+![Windows](https://img.shields.io/badge/Windows-243047?style=flat-square&logo=windows&logoColor=white)
+![TCP/IP](https://img.shields.io/badge/TCP%2FIP-7A3038?style=flat-square)
+![DNS](https://img.shields.io/badge/DNS-151821?style=flat-square)
+![DHCP](https://img.shields.io/badge/DHCP-243047?style=flat-square)
 
 ---
 
 ## Projeto em destaque
 
-<p align="center">
-  <img src="./assets/nero.png" alt="NERO" width="180" />
-</p>
+<table>
+<tr>
+<td width="68%" valign="top">
 
 ### NERO
 
 Assistente de inteligência artificial para desktop desenvolvido como projeto pessoal.
 
-**Status:** Projeto privado
+O NERO busca combinar interação natural, processamento local e uma interface própria com personalidade visual e diferentes estados de comportamento.
 
-### Tecnologias e conceitos usados no NERO
+**Principais recursos**
 
-![Python](https://img.shields.io/badge/Python-3776AB?style=flat&logo=python&logoColor=white)
-![Docker](https://img.shields.io/badge/Docker-2496ED?style=flat&logo=docker&logoColor=white)
-![Ollama](https://img.shields.io/badge/Ollama-111111?style=flat&logo=ollama&logoColor=white)
-![IA Local](https://img.shields.io/badge/IA%20Local-8B1E2D?style=flat)
-![Reconhecimento de Voz](https://img.shields.io/badge/Reconhecimento%20de%20Voz-1F4B99?style=flat)
-![Síntese de Voz](https://img.shields.io/badge/S%C3%ADntese%20de%20Voz-7A2430?style=flat)
-
-### O que o projeto envolve
-
-- Assistente de IA para desktop
 - Inteligência artificial local
 - Reconhecimento de voz
 - Síntese de voz
-- Arquitetura modular
 - Sistema de memória e contexto
-- Interface visual com personagem própria
-- Estados visuais e animações da NERO
+- Interface gráfica para desktop
+- Estados visuais e animações
+- Arquitetura modular
+- Integração entre diferentes componentes
+
+**Tecnologias**
+
+![Python](https://img.shields.io/badge/Python-243047?style=flat-square&logo=python&logoColor=white)
+![Docker](https://img.shields.io/badge/Docker-243047?style=flat-square&logo=docker&logoColor=white)
+![Ollama](https://img.shields.io/badge/Ollama-151821?style=flat-square&logo=ollama&logoColor=white)
+![IA Local](https://img.shields.io/badge/IA%20Local-7A3038?style=flat-square)
+![ASR](https://img.shields.io/badge/Reconhecimento%20de%20Voz-B94B46?style=flat-square)
+![TTS](https://img.shields.io/badge/S%C3%ADntese%20de%20Voz-243047?style=flat-square)
+
+**Status:** Projeto privado
+
+</td>
+
+<td width="32%" align="center" valign="middle">
+
+<img src="./assets/nero.png" alt="NERO" width="220" />
+
+</td>
+</tr>
+</table>
 
 ---
 
 ## Experiência prática
 
-### Suporte e manutenção de computadores
+### Suporte e manutenção
+
+Além do desenvolvimento, também possuo experiência prática com computadores e notebooks:
 
 - Formatação e instalação de sistemas
-- Configuração de notebooks e computadores
+- Configuração de computadores e notebooks
 - Diagnóstico e troubleshooting
 - Instalação de drivers e softwares
-- Manutenção de hardware e periféricos
+- Montagem e manutenção de computadores
+- Manutenção de periféricos
 - Suporte técnico a usuários
-- Configuração básica de rede e ambiente Windows
+- Configuração e solução de problemas no Windows
+- Noções de redes TCP/IP, DNS e DHCP
 
 ---
 
 ## Formação
 
-### Bacharelado em Ciência da Computação
-Anhanguera  
-Em andamento
+**Bacharelado em Ciência da Computação**  
+Anhanguera • Em andamento • Início em 2026
 
-### Técnico em Informática
-ETEC
+**Técnico em Informática**  
+ETEC • 2024–2025
 
 ---
 
@@ -123,23 +136,31 @@ ETEC
 
 ### Programa Vem Saber — USP
 
-- Robótica — 40h
-- Desenvolvimento de Aplicativos e Jogos — 40h
-- Super Tecnologias — 40h
+| Curso | Carga horária |
+|---|---:|
+| Robótica | 40h |
+| Desenvolvimento de Aplicativos e Jogos | 40h |
+| Super Tecnologias | 40h |
 
 ---
 
-## Estatísticas do GitHub
+## Estatísticas
 
 <p align="center">
-  <img height="170" src="https://github-readme-stats.vercel.app/api?username=JT-Moreira&show_icons=true&theme=github_dark&hide_border=true&title_color=d95c5c&icon_color=d95c5c&text_color=f2f2f2&bg_color=00000000" />
-  <img height="170" src="https://github-readme-stats.vercel.app/api/top-langs/?username=JT-Moreira&layout=compact&theme=github_dark&hide_border=true&title_color=d95c5c&text_color=f2f2f2&bg_color=00000000" />
+  <img height="165" src="https://github-readme-stats.vercel.app/api?username=JT-Moreira&show_icons=true&hide_border=true&bg_color=0D1117&title_color=C65353&text_color=F2EDE7&icon_color=C65353&locale=pt-br" alt="Estatísticas do GitHub" />
+  <img height="165" src="https://github-readme-stats.vercel.app/api/top-langs/?username=JT-Moreira&layout=compact&hide_border=true&bg_color=0D1117&title_color=C65353&text_color=F2EDE7&locale=pt-br" alt="Linguagens mais utilizadas" />
 </p>
 
 ---
 
-## Contato
-
-- LinkedIn: [joaogabrielmoreira-jt](https://www.linkedin.com/in/joaogabrielmoreira-jt/)
-- E-mail: [joaogabrielvfc2@gmail.com](mailto:joaogabrielvfc2@gmail.com)
-- GitHub: [github.com/JT-Moreira](https://github.com/JT-Moreira)
+<p align="center">
+  <a href="mailto:joaogabrielvfc2@gmail.com">
+    <img src="https://img.shields.io/badge/EMAIL-151821?style=flat-square&logo=gmail&logoColor=C65353" />
+  </a>
+  <a href="https://www.linkedin.com/in/joaogabrielmoreira-jt/">
+    <img src="https://img.shields.io/badge/LINKEDIN-7A3038?style=flat-square&logo=linkedin&logoColor=white" />
+  </a>
+  <a href="https://github.com/JT-Moreira">
+    <img src="https://img.shields.io/badge/GITHUB-151821?style=flat-square&logo=github&logoColor=white" />
+  </a>
+</p>
