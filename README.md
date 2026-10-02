@@ -4,7 +4,7 @@
 
 <p align="center">
 <a href="https://www.linkedin.com/in/joaogabrielmoreira-jt/"><img src="https://img.shields.io/badge/LINKEDIN-7A3038?style=for-the-badge&logo=linkedin&logoColor=FFFFFF" alt="LinkedIn"></a>
-<a href="mailto:joaogabrielvfc2@gmail.com"><img src="https://img.shields.io/badge/EMAIL-1A1D27?style=for-the-badge&logo=gmail&logoColor=C65353" alt="Email"></a>
+<a href="https://mail.google.com/mail/?view=cm&fs=1&to=joaogabrielvfc2@gmail.com"><img src="https://img.shields.io/badge/EMAIL-1A1D27?style=for-the-badge&logo=gmail&logoColor=C65353" alt="Email"></a>
 </p>
 
 <br>
