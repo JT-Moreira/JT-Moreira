@@ -1,26 +1,35 @@
-# João Gabriel Moreira
+<p align="center">
+  <img src="./assets/banner.png" alt="Banner João Gabriel Moreira" width="100%" />
+</p>
 
-### Desenvolvimento de Software • Ciência da Computação • Tecnologia
+<h1 align="center">João Gabriel Moreira</h1>
 
-Sou técnico em **Informática pela ETEC** e atualmente curso
-**Bacharelado em Ciência da Computação**.
+<p align="center">
+  Desenvolvimento de Software • Ciência da Computação • Tecnologia
+</p>
 
-Tenho interesse em desenvolvimento de software, inteligência artificial,
-automação, infraestrutura e resolução de problemas.
-
-Atualmente desenvolvo projetos acadêmicos e pessoais utilizando tecnologias
-como Java, C, JavaScript, SQL, Git/GitHub e ferramentas de Inteligência Artificial.
+<p align="center">
+  <a href="https://www.linkedin.com/in/joaogabrielmoreira-jt/">
+    <img src="https://img.shields.io/badge/LinkedIn-0A66C2?style=for-the-badge&logo=linkedin&logoColor=white" alt="LinkedIn" />
+  </a>
+  <a href="mailto:joaogabrielvfc2@gmail.com">
+    <img src="https://img.shields.io/badge/Email-BB3E3E?style=for-the-badge&logo=gmail&logoColor=white" alt="Email" />
+  </a>
+  <a href="https://github.com/JT-Moreira">
+    <img src="https://img.shields.io/badge/GitHub-111111?style=for-the-badge&logo=github&logoColor=white" alt="GitHub" />
+  </a>
+</p>
 
 ---
 
 ## Sobre mim
 
-- 🎓 Bacharelado em Ciência da Computação — em andamento
-- 💻 Técnico em Informática pela ETEC
-- 🧠 Interesse em Inteligência Artificial e automação
-- 🛠️ Experiência prática com suporte técnico e infraestrutura
-- 🚀 Desenvolvendo o projeto NERO
-- 📚 Sempre estudando novas tecnologias
+Sou técnico em Informática pela ETEC e atualmente curso Bacharelado em Ciência da Computação.
+
+Tenho interesse em desenvolvimento de software, inteligência artificial, automação, suporte e infraestrutura. Também atuo com formatação, configuração, manutenção e diagnóstico de computadores e notebooks.
+
+**Localização:** São Paulo, Brasil  
+**Idioma:** Inglês — Intermediário
 
 ---
 
@@ -40,29 +49,62 @@ como Java, C, JavaScript, SQL, Git/GitHub e ferramentas de Inteligência Artific
 ![Git](https://img.shields.io/badge/Git-F05032?style=flat&logo=git&logoColor=white)
 ![GitHub](https://img.shields.io/badge/GitHub-181717?style=flat&logo=github&logoColor=white)
 ![Docker](https://img.shields.io/badge/Docker-2496ED?style=flat&logo=docker&logoColor=white)
-![Ollama](https://img.shields.io/badge/Ollama-000000?style=flat&logo=ollama&logoColor=white)
+![Ollama](https://img.shields.io/badge/Ollama-111111?style=flat&logo=ollama&logoColor=white)
 
 ### Suporte e infraestrutura
 
 ![Windows](https://img.shields.io/badge/Windows-0078D6?style=flat&logo=windows&logoColor=white)
-![TCP/IP](https://img.shields.io/badge/TCP%2FIP-0A66C2?style=flat)
-![DNS](https://img.shields.io/badge/DNS-005571?style=flat)
+![TCP/IP](https://img.shields.io/badge/TCP%2FIP-0B5D8B?style=flat)
+![DNS](https://img.shields.io/badge/DNS-0D698B?style=flat)
 ![DHCP](https://img.shields.io/badge/DHCP-4B5563?style=flat)
 
-## Projetos
+---
+
+## Projeto em destaque
+
+<p align="center">
+  <img src="./assets/nero.png" alt="NERO" width="180" />
+</p>
 
 ### NERO
 
-Projeto pessoal de assistente de Inteligência Artificial para desktop.
+Assistente de inteligência artificial para desktop desenvolvido como projeto pessoal.
 
-O projeto envolve:
+**Status:** Projeto privado
 
-- Inteligência Artificial local
-- Interface gráfica
+### Tecnologias e conceitos usados no NERO
+
+![Python](https://img.shields.io/badge/Python-3776AB?style=flat&logo=python&logoColor=white)
+![Docker](https://img.shields.io/badge/Docker-2496ED?style=flat&logo=docker&logoColor=white)
+![Ollama](https://img.shields.io/badge/Ollama-111111?style=flat&logo=ollama&logoColor=white)
+![IA Local](https://img.shields.io/badge/IA%20Local-8B1E2D?style=flat)
+![Reconhecimento de Voz](https://img.shields.io/badge/Reconhecimento%20de%20Voz-1F4B99?style=flat)
+![Síntese de Voz](https://img.shields.io/badge/S%C3%ADntese%20de%20Voz-7A2430?style=flat)
+
+### O que o projeto envolve
+
+- Assistente de IA para desktop
+- Inteligência artificial local
 - Reconhecimento de voz
 - Síntese de voz
 - Arquitetura modular
-- Integração entre diferentes componentes
+- Sistema de memória e contexto
+- Interface visual com personagem própria
+- Estados visuais e animações da NERO
+
+---
+
+## Experiência prática
+
+### Suporte e manutenção de computadores
+
+- Formatação e instalação de sistemas
+- Configuração de notebooks e computadores
+- Diagnóstico e troubleshooting
+- Instalação de drivers e softwares
+- Manutenção de hardware e periféricos
+- Suporte técnico a usuários
+- Configuração básica de rede e ambiente Windows
 
 ---
 
@@ -70,15 +112,14 @@ O projeto envolve:
 
 ### Bacharelado em Ciência da Computação
 Anhanguera  
-Em andamento — início em 2026
+Em andamento
 
 ### Técnico em Informática
-ETEC  
-2024 – 2025
+ETEC
 
 ---
 
-## Cursos
+## Cursos complementares
 
 ### Programa Vem Saber — USP
 
@@ -88,13 +129,17 @@ ETEC
 
 ---
 
-## Idiomas
+## Estatísticas do GitHub
 
-- Inglês — Intermediário
-- Japonês — Básico
+<p align="center">
+  <img height="170" src="https://github-readme-stats.vercel.app/api?username=JT-Moreira&show_icons=true&theme=github_dark&hide_border=true&title_color=d95c5c&icon_color=d95c5c&text_color=f2f2f2&bg_color=00000000" />
+  <img height="170" src="https://github-readme-stats.vercel.app/api/top-langs/?username=JT-Moreira&layout=compact&theme=github_dark&hide_border=true&title_color=d95c5c&text_color=f2f2f2&bg_color=00000000" />
+</p>
 
 ---
 
 ## Contato
 
-[LinkedIn](https://www.linkedin.com/in/joaogabrielmoreira-jt/)
+- LinkedIn: [joaogabrielmoreira-jt](https://www.linkedin.com/in/joaogabrielmoreira-jt/)
+- E-mail: [joaogabrielvfc2@gmail.com](mailto:joaogabrielvfc2@gmail.com)
+- GitHub: [github.com/JT-Moreira](https://github.com/JT-Moreira)
