@@ -20,7 +20,6 @@ Atualmente desenvolvo o **NERO**, meu principal projeto pessoal: um assistente d
 **São Paulo, Brasil**  
 **Inglês:** Intermediário
 
----
 
 ## Tecnologias e ferramentas
 
