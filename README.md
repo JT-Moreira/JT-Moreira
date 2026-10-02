@@ -1,33 +1,24 @@
 <p align="center">
-  <img src="./assets/Banner João Gabriel Moreira.png" alt="Banner João Gabriel Moreira" width="100%" />
+  <img src="./assets/Banner João Gabriel Moreira.png" alt="João Gabriel Moreira" width="100%">
 </p>
 
 <p align="center">
-  <a href="mailto:joaogabrielvfc2@gmail.com">
-    <img src="https://img.shields.io/badge/EMAIL-151821?style=flat-square&logo=gmail&logoColor=C65353" alt="Email" />
-  </a>
-  <a href="https://www.linkedin.com/in/joaogabrielmoreira-jt/">
-    <img src="https://img.shields.io/badge/LINKEDIN-7A3038?style=flat-square&logo=linkedin&logoColor=white" alt="LinkedIn" />
-  </a>
-  <a href="https://github.com/JT-Moreira">
-    <img src="https://img.shields.io/badge/GITHUB-151821?style=flat-square&logo=github&logoColor=white" alt="GitHub" />
-  </a>
+<a href="https://www.linkedin.com/in/joaogabrielmoreira-jt/"><img src="https://img.shields.io/badge/LINKEDIN-7A3038?style=for-the-badge&logo=linkedin&logoColor=FFFFFF" alt="LinkedIn"></a>
+<a href="mailto:joaogabrielvfc2@gmail.com"><img src="https://img.shields.io/badge/EMAIL-1A1D27?style=for-the-badge&logo=gmail&logoColor=C65353" alt="Email"></a>
 </p>
+
+<br>
 
 ## Sobre mim
 
 Sou **Técnico em Informática pela ETEC** e atualmente curso **Bacharelado em Ciência da Computação**.
 
-Minha experiência também passa pelo lado prático da tecnologia, com manutenção, formatação, configuração e diagnóstico de computadores e notebooks, além de suporte a usuários e resolução de problemas de hardware e software.
+Tenho interesse em desenvolvimento de software, inteligência artificial, automação e infraestrutura. Além da área de desenvolvimento, também trabalho com manutenção, formatação, configuração e diagnóstico de computadores e notebooks.
 
-Atualmente desenvolvo o **NERO**, um assistente de inteligência artificial para desktop criado como projeto pessoal, onde exploro IA local, reconhecimento e síntese de voz, automação e integração entre diferentes componentes.
+Atualmente desenvolvo o **NERO**, meu principal projeto pessoal: um assistente de inteligência artificial para desktop que reúne IA local, voz, memória, interface gráfica e diferentes sistemas de interação.
 
-- Bacharelado em Ciência da Computação — em andamento
-- Técnico em Informática pela ETEC
-- Experiência prática com suporte e manutenção de computadores
-- Projeto pessoal NERO
-- São Paulo, Brasil
-- Inglês — Intermediário
+**São Paulo, Brasil**  
+**Inglês:** Intermediário
 
 ---
 
@@ -58,45 +49,53 @@ Atualmente desenvolvo o **NERO**, um assistente de inteligência artificial para
 
 ---
 
-## Projeto em destaque
+## NERO
 
 <table>
 <tr>
 <td width="68%" valign="top">
 
-### NERO
+<h3>Assistente de Inteligência Artificial para Desktop</h3>
 
-Assistente de inteligência artificial para desktop desenvolvido como projeto pessoal.
+<p>
+O <strong>NERO</strong> é um projeto pessoal voltado à criação de um assistente de IA para desktop com identidade visual própria e interação por voz.
+</p>
 
-O NERO busca combinar interação natural, processamento local e uma interface própria com personalidade visual e diferentes estados de comportamento.
+<p>
+O projeto combina diferentes componentes para criar uma experiência mais natural entre usuário e assistente, incluindo processamento local, memória, voz e estados visuais.
+</p>
 
-**Principais recursos**
+<h4>Principais recursos</h4>
 
-- Inteligência artificial local
-- Reconhecimento de voz
-- Síntese de voz
-- Sistema de memória e contexto
-- Interface gráfica para desktop
-- Estados visuais e animações
-- Arquitetura modular
-- Integração entre diferentes componentes
+<ul>
+  <li>Inteligência artificial local</li>
+  <li>Reconhecimento de voz</li>
+  <li>Síntese de voz</li>
+  <li>Sistema de memória e contexto</li>
+  <li>Interface gráfica para desktop</li>
+  <li>Estados visuais e animações</li>
+  <li>Arquitetura modular</li>
+  <li>Integração entre diferentes componentes</li>
+</ul>
 
-**Tecnologias**
+<h4>Tecnologias</h4>
 
-![Python](https://img.shields.io/badge/Python-243047?style=flat-square&logo=python&logoColor=white)
-![Docker](https://img.shields.io/badge/Docker-243047?style=flat-square&logo=docker&logoColor=white)
-![Ollama](https://img.shields.io/badge/Ollama-151821?style=flat-square&logo=ollama&logoColor=white)
-![IA Local](https://img.shields.io/badge/IA%20Local-7A3038?style=flat-square)
-![ASR](https://img.shields.io/badge/Reconhecimento%20de%20Voz-B94B46?style=flat-square)
-![TTS](https://img.shields.io/badge/S%C3%ADntese%20de%20Voz-243047?style=flat-square)
+<img src="https://img.shields.io/badge/Python-243047?style=flat-square&logo=python&logoColor=white" alt="Python">
+<img src="https://img.shields.io/badge/Docker-243047?style=flat-square&logo=docker&logoColor=white" alt="Docker">
+<img src="https://img.shields.io/badge/Ollama-151821?style=flat-square&logo=ollama&logoColor=white" alt="Ollama">
+<img src="https://img.shields.io/badge/IA%20Local-7A3038?style=flat-square" alt="IA Local">
+<img src="https://img.shields.io/badge/ASR-B94B46?style=flat-square" alt="ASR">
+<img src="https://img.shields.io/badge/TTS-243047?style=flat-square" alt="TTS">
 
-**Status:** Projeto privado
+<br><br>
+
+<strong>Status:</strong> Projeto privado
 
 </td>
 
 <td width="32%" align="center" valign="middle">
 
-<img src="./assets/nero.png" alt="NERO" width="220" />
+<img src="./assets/nero.png" alt="NERO" width="220">
 
 </td>
 </tr>
@@ -106,29 +105,34 @@ O NERO busca combinar interação natural, processamento local e uma interface p
 
 ## Experiência prática
 
-### Suporte e manutenção
+### Suporte e manutenção de computadores
 
-Além do desenvolvimento, também possuo experiência prática com computadores e notebooks:
+Além dos projetos de desenvolvimento, também possuo experiência prática com computadores e notebooks.
 
 - Formatação e instalação de sistemas
 - Configuração de computadores e notebooks
 - Diagnóstico e troubleshooting
 - Instalação de drivers e softwares
 - Montagem e manutenção de computadores
-- Manutenção de periféricos
+- Manutenção e configuração de periféricos
 - Suporte técnico a usuários
-- Configuração e solução de problemas no Windows
-- Noções de redes TCP/IP, DNS e DHCP
+- Diagnóstico de problemas de hardware e software
+- Configuração e resolução de problemas no Windows
+- Conhecimentos de redes TCP/IP, DNS e DHCP
 
 ---
 
 ## Formação
 
-**Bacharelado em Ciência da Computação**  
-Anhanguera • Em andamento • Início em 2026
+### Bacharelado em Ciência da Computação
 
-**Técnico em Informática**  
-ETEC • 2024–2025
+**Anhanguera**  
+Em andamento • Início em 2026
+
+### Técnico em Informática
+
+**ETEC**  
+2024 – 2025
 
 ---
 
@@ -137,30 +141,16 @@ ETEC • 2024–2025
 ### Programa Vem Saber — USP
 
 | Curso | Carga horária |
-|---|---:|
+| :--- | ---: |
 | Robótica | 40h |
 | Desenvolvimento de Aplicativos e Jogos | 40h |
 | Super Tecnologias | 40h |
 
 ---
 
-## Estatísticas
+## Contato
 
-<p align="center">
-  <img height="165" src="https://github-readme-stats.vercel.app/api?username=JT-Moreira&show_icons=true&hide_border=true&bg_color=0D1117&title_color=C65353&text_color=F2EDE7&icon_color=C65353&locale=pt-br" alt="Estatísticas do GitHub" />
-  <img height="165" src="https://github-readme-stats.vercel.app/api/top-langs/?username=JT-Moreira&layout=compact&hide_border=true&bg_color=0D1117&title_color=C65353&text_color=F2EDE7&locale=pt-br" alt="Linguagens mais utilizadas" />
-</p>
-
----
-
-<p align="center">
-  <a href="mailto:joaogabrielvfc2@gmail.com">
-    <img src="https://img.shields.io/badge/EMAIL-151821?style=flat-square&logo=gmail&logoColor=C65353" />
-  </a>
-  <a href="https://www.linkedin.com/in/joaogabrielmoreira-jt/">
-    <img src="https://img.shields.io/badge/LINKEDIN-7A3038?style=flat-square&logo=linkedin&logoColor=white" />
-  </a>
-  <a href="https://github.com/JT-Moreira">
-    <img src="https://img.shields.io/badge/GITHUB-151821?style=flat-square&logo=github&logoColor=white" />
-  </a>
+<p>
+<a href="mailto:joaogabrielvfc2@gmail.com"><img src="https://img.shields.io/badge/EMAIL-1A1D27?style=flat-square&logo=gmail&logoColor=C65353" alt="Email"></a>
+<a href="https://www.linkedin.com/in/joaogabrielmoreira-jt/"><img src="https://img.shields.io/badge/LINKEDIN-7A3038?style=flat-square&logo=linkedin&logoColor=FFFFFF" alt="LinkedIn"></a>
 </p>
